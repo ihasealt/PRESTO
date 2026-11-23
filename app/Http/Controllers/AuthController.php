@@ -89,3 +89,5 @@ class AuthController extends Controller
         return redirect()->route('login');
     }
 }
+
+// Update 23 Nov 2026
